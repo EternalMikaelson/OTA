@@ -1,0 +1,3 @@
+☞ build type: user.
+☞ November ASB.
+☞ for detailed changelogs check commits.
