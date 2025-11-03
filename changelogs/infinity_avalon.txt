@@ -1,3 +1,13 @@
+Date - 03/11/2025
+=================
+☞ Fixed UDFPS flickering issue.
+☞ Synced with latest LineageOS device source changes.
+☞ Strong integrity passes by default so no root needed.
+☞ Added Google bootanimation.
+☞ Few Misc changes.
+☞ Random Freezing issue is fixed now
+☞ For detailed changelogs check commits.
+
 Date - 01/11/2025
 =================
 ☞ Project Infinity X v3.4 Update with November security patch
