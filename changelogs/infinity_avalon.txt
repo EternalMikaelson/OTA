@@ -1,4 +1,4 @@
-Date - 03/11/2025
+Date - 04/11/2025
 =================
 ☞ Add OTA updates
 
@@ -17,5 +17,6 @@ Date - 01/11/2025
 ☞ Project Infinity X v3.4 Update with November security patch
 ☞ build type: user.
 ☞ for detailed changelogs check commits.
+
 
 
