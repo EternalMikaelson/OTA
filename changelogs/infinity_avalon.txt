@@ -1,5 +1,9 @@
 Date - 03/11/2025
 =================
+☞ Add OTA updates
+
+Date - 03/11/2025
+=================
 ☞ Fixed UDFPS flickering issue.
 ☞ Synced with latest LineageOS device source changes.
 ☞ Strong integrity passes by default so no root needed.
@@ -13,4 +17,5 @@ Date - 01/11/2025
 ☞ Project Infinity X v3.4 Update with November security patch
 ☞ build type: user.
 ☞ for detailed changelogs check commits.
+
 
