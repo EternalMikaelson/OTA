@@ -1,3 +1,31 @@
+Date - 17/12/2025
+=================
+☞ Fixed Bluetooth headset call audio routing and ringing behavior
+☞ Fixed charging and temperature info status on lockscreen
+☞ Implemented screen burn-in safeguard in AOD configuration
+☞ Add back ConsumerIR remote app
+☞ Other miscellaneous changes
+
+Date - 09/12/2025
+=================
+☞ Updated screen brightness configuration
+☞ Implemented bypass charging
+☞ Synced with latest rom source changelogs.
+
+Date - 04/12/2025
+=================
+☞ Updated device blobs from OOS 11.F.10
+☞ Updated common blobs from OOS 11.F.36
+☞ Implemented torch strength
+☞ Added Viper4AndroidFX
+☞ Added BCR(Basic Call Recorder)
+☞ Made improvements for fixing QS panel and system wide lag when blur is enabled
+☞ Added pulse notifications on device pickup
+☞ Added High Touch Polling Rate
+☞ Added High Touch Sensitivity Mode
+☞ Signed build with own keys
+☞ Other miscellaneous changes,check commits for detailed changelogs
+
 Date - 10/11/2025
 =================
 ☞ Synced with latest rom source changelogs.
@@ -24,6 +52,6 @@ Date - 01/11/2025
 ☞ build type: user.
 ☞ for detailed changelogs check commits.
 
-
-
-
+Date - 19/10/2025
+=================
+☞ Initial build
