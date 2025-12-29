@@ -1,3 +1,10 @@
+Date - 29/12/2025
+=================
+☞ Project Infinity-X v3.6 based on QPR1
+☞ Nuked ViPER4AndroidFX (temp)
+☞ Fix transient unlock failure after reboot
+☞ Other miscellaneous changes,check commits for detailed changelogs
+
 Date - 17/12/2025
 =================
 ☞ Fixed Bluetooth headset call audio routing and ringing behavior
