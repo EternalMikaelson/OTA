@@ -1,3 +1,16 @@
+Date - 01/01/2026
+=================
+☞ Dropped Alert Slider Dialogue
+☞ Readded torch strength
+☞ Update cutout strings
+☞ Various init changes
+☞ Fixed Some Autobrightness issues
+☞ ConsumerIR: Update from CPH2573_16.0.2.400(EX01)
+☞ Kernel {modules,devicetrees}: Update from CPH2573_16.0.2.400(EX01)
+☞ Merge tag 6.1.159 into Kernel
+☞ Synced with latest source changelogs
+☞ Other miscellaneous changes
+
 Date - 29/12/2025
 =================
 ☞ Project Infinity-X v3.6 based on QPR1
