@@ -31,7 +31,7 @@
 ```
 adb reboot bootloader
 ```
-- Flash boot, init_boot, vendor_boot, dtbo and recovery images
+- Flash boot, init_boot, vendor_boot and recovery images
 ```
 fastboot flash boot boot.img
 ```
@@ -40,9 +40,6 @@ fastboot flash init_boot init_boot.img
 ```
 ```
 fastboot flash vendor_boot vendor_boot.img
-```
-```
-fastboot flash dtbo dtbo.img
 ```
 ```
 fastboot flash recovery recovery.img
