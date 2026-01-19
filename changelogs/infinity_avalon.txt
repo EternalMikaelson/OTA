@@ -1,3 +1,10 @@
+Date - 19/01/2026
+=================
+☞ Updated device blobs from OOS 11.F.12
+☞ Updated IR Remote from OOS 11.F.12
+☞ Synced with latest source changelogs
+☞ Other miscellaneous changes
+
 Date - 07/01/2026
 =================
 ☞ January Android Security Bulletin (ASB) 2026
