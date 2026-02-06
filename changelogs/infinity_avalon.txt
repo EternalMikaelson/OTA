@@ -1,3 +1,15 @@
+Date - 06/02/2026
+=======================
+☞ A16 - QPR2 Stable update
+☞ February Security Patch '26
+☞ Fixed Bluetooth calling issue
+☞ Kernel: merged tag 6.1.161
+☞ Switched to Lunaris Dolby
+☞ Added ViPER4AndroidFX
+☞ Restored Torch Strength
+☞ Other miscellaneous changes
+☞ Fcuk! no valentine?unlucky af;Grab a beer my friend just like I did
+
 Date - 31/01/2026
 =================
 ☞ Initial Android 16 - QPR2 update  

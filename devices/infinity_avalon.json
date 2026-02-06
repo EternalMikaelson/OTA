@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.6-avalon-25.01.2026-GAPPS-UNOFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/helloyou/files/EternalBuilds/InfinityX/25012026/Project_Infinity-X-3.6-avalon-25.01.2026-GAPPS-UNOFFICIAL.zip/download",
-			"timestamp": 1769333302,
-			"md5": "94a8381754d12c91aa10132ec2792282",
-			"size": 3263862392,
-			"version": "3.6"
+			"filename": "Project_Infinity-X-3.7-avalon-06.02.2026-GAPPS.zip",
+			"download": "https://sourceforge.net/projects/helloyou/files/EternalBuilds/InfinityX/06-02-2026/Project_Infinity-X-3.7-avalon-06.02.2026-GAPPS.zip/download",
+			"timestamp": 1770363567,
+			"md5": "c884d419d07f7602bb37f3776bc3c00e",
+			"size": 3240731290,
+			"version": "3.7"
 		}
 	]
 }
