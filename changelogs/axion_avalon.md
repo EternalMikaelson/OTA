@@ -1,7 +1,7 @@
 ## AxionOS Changelog
 
 ### Axion Version — 2.4 SOLACE
-**Security Patch:** January 2026
+**Security Patch:** February 2026
 
 ---
 
@@ -11,9 +11,14 @@
 ### Features & Changes
 
 #### Date: 10/02/'26
-- test
+---------------------------
+- Feb Security Patch '26
+- Add support for OTA updates
+- Added bypass charging
+- Other miscellaneous improvements
+
 #### Date: 07/02/'26
----------
+---------------------------
 - Android 16 QPR1 Stable initial release
 - January 2026 security patch
 - Fixed Bluetooth calling issue
