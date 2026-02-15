@@ -1,3 +1,11 @@
+Date - 15/02/2026
+=======================
+☞ Kernel {modules,devicetrees}: treewide: Update changes to CPH2573_16.0.3.500(EX01)
+☞ Improve depth wallpaper handling
+☞ Fix issues on Lockscreen QPR2 widgets section when media art showing
+☞ Fixed app freeze when quickly calling app from recents while navigation hint is hidden
+☞ Other miscellaneous improvements
+
 Date - 10/02/2026
 =======================
 ☞ Synced with latest source changelogs
