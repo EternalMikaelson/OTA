@@ -1,3 +1,50 @@
+Date - 16/03/2026
+=======================
+☞ March Security Patch '26
+☞ Kernel: merged tag 6.1.163
+☞ Reconfigure aux camera IDs for Aperture
+☞ Switch back to stock display density
+☞ Integrated SuperVOOC charging indication on lockscreen
+☞ BCR: Version: 2.7
+☞ Add system ui restart option
+☞ Setup DeviceAsWebcam
+☞ KeyHandler: Update volume ringer icons
+☞ Bluetooth: Changing vendor ID as QTI for Device ID Profile
+☞ Disable aptX voice codec
+☞ Decouple auto-suspend and interactive state from display
+☞ Update pinner list
+☞ Remove IO read_ahead_kb tune
+☞ Reset readahead values for 128 always
+☞ Always use lz4 for zram
+☞ Allow gcam/snapcam to skip HFR checks
+☞ Chown SIPA nodes
+☞ Don't enable memperfd
+☞ Increase reserve partition sizes
+☞ Explicitly set game rate override disabled to 0
+☞ Disable SF client composition cache
+☞ Disable backpressure propagation in SF
+☞ Use min/max settings instead of smooth display
+☞ hidl: inscreen: Set thread to high CFS priority
+☞ Address DeviceSettings and fast charging denials
+☞ Allow system_app to access zram sysfs nodes
+☞ Allow system app read battery health status
+☞ Address various denials
+☞ Label missing wakeup nodes
+☞ Fix hal_bootctl_default denial
+☞ Label hal_charger service
+☞ Address cryptoeng denials
+☞ Fix bluetooth denial on user builds
+☞ Address rild denial for prop
+☞ qssi: Update QSSI RROs from CPH2573_11_A.76
+☞ Address nfc denial
+☞ Label oplus bluetooth prop
+☞ Address charger aidl denial
+☞ Label audio props to avoid denials
+☞ Label ro.oplusupgrade.alpha.version
+☞ Let tee create fingerprint_vendor_data_file
+☞ Allow fingerprint HAL DMA_BUF_IOCTL_SYNC on fptar files
+☞ Other miscellaneous improvements
+
 Date - 15/02/2026
 =======================
 ☞ Kernel {modules,devicetrees}: treewide: Update changes to CPH2573_16.0.3.500(EX01)
