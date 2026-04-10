@@ -1,3 +1,15 @@
+Date - 10/04/2026
+=======================
+☞ April Security Patch '26
+☞ Kernel: merged tag 6.1.166
+☞ Update blobs from OOS 11.F.14
+☞ Update common blobs from OOS 11.F.43
+☞ Imported missing vibrator firmwares to improve haptics and vibration quality
+☞ Added animation for alert slider dialog
+☞ Tweaked dax-default of dolby to fixup headphone virtualizer amount
+☞ richtap: Add support for Oplus Awinic sysfs nodes
+☞ Other miscellaneous improvements
+
 Date - 17/03/2026
 =======================
 ☞ Synced with latest source changelogs
