@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776313803,
-            "filename": "axion-2.5-REVERIE-20260416-GMS-avalon.zip",
-            "id": "b4916ac73eb247b4726d68b79762babb",
+            "datetime": 1779358716,
+            "filename": "axion-2.6-QUASIS-20260521-CORE-avalon.zip",
+            "id": "f6e3221753ebf819be01184e73700803",
             "romtype": "UNOFFICIAL",
-            "size": 3986106290,
-            "url": "https://sourceforge.net/projects/helloyou/files/EternalBuilds/axion/16-04-2026/axion-2.5-REVERIE-20260416-GMS-avalon.zip/download",
-            "version": "2.5"
+            "size": 3370146970,
+            "url": "https://sourceforge.net/projects/helloyou/files/EternalBuilds/axion/22-05-2026/axion-2.6-QUASIS-20260521-CORE-avalon.zip/download",
+            "version": "2.6"
         }
     ]
 }

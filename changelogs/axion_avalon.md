@@ -1,7 +1,7 @@
 ## AxionOS Changelog
 
-### Axion Version — 2.5 REVERIE
-**Security Patch:** **April 2026**
+### Axion Version — 2.6 QUASIS
+**Security Patch:** **May 2026**
 ### Status — **Unofficial**
 ---
 
@@ -9,6 +9,24 @@
 **Maintainer:** 𝑲𝒍𝒂𝒖𝒔 𝑴𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏
 
 ### Features & Changes
+
+#### Date: 22/05/'26
+---------------------------
+- BCR: Version 2.11
+- Kernel: merged tag 6.1.170
+- Updated blobs from OOS 11.F.15
+- Fix Widevine L1
+- Fixup,Use lineage-libperfmgr for DT2W (DoubleTapToWake)
+- Tune ambient display burn-in protection
+- Implement Material You theme for Alert Slider dialog
+- Add toggle to swap Alert Slider dialog text/icon and background colors
+- Allow remapping AOSP effect IDs to RichTap internal effect IDs
+- Improve RichTap vibration consistency
+- richtap: Tweak effect ID mappings
+- richtap: Tune per-effect haptic strength
+- Added carrier config for JIO and AIRTEL (India)
+- Nuked ScrollOptimizer, as it was causing lag issues randomly, especially during gaming
+- Other miscellaneous improvements
 
 #### Date: 16/04/'26
 ---------------------------
