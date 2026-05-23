@@ -1,3 +1,20 @@
+Date - 23/05/2026
+=======================
+☞ BCR: Version 2.11
+☞ Kernel: merged tag 6.1.170
+☞ Updated blobs from OOS 11.F.15
+☞ Fix Widevine L1
+☞ Fixup,Use lineage-libperfmgr for DT2W (DoubleTapToWake)
+☞ Tune ambient display burn-in protection
+☞ Implement Material You theme for Alert Slider dialog
+☞ Add toggle to swap Alert Slider dialog text/icon and background colors
+☞ Allow remapping AOSP effect IDs to RichTap internal effect IDs
+☞ Improve RichTap vibration consistency
+☞ richtap: Tweak effect ID mappings
+☞ richtap: Tune per-effect haptic strength
+☞ Added carrier config for JIO and AIRTEL (India)
+☞ Other miscellaneous improvements
+
 Date - 10/04/2026
 =======================
 ☞ April Security Patch '26
