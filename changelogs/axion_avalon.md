@@ -1,7 +1,7 @@
 ## AxionOS Changelog
 
-### Axion Version — 2.6 QUASIS
-**Security Patch:** **May 2026**
+### Axion Version — 2.7 PROXIMA BETA
+**Security Patch:** **June 2026**
 ### Status — **Unofficial**
 ---
 
@@ -9,6 +9,14 @@
 **Maintainer:** 𝑲𝒍𝒂𝒖𝒔 𝑴𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏
 
 ### Features & Changes
+
+#### Date: 08/06/'26
+---------------------------
+- BCR: Version 3.1
+- June 2026 ASB
+- Updated common tree blobs from OOS 11.F.50
+- Fixed low network issues on 5G Network
+- Other miscellaneous improvements
 
 #### Date: 22/05/'26
 ---------------------------

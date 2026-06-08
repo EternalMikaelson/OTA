@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779358716,
-            "filename": "axion-2.6-QUASIS-20260521-CORE-avalon.zip",
-            "id": "f6e3221753ebf819be01184e73700803",
+            "datetime": 1780889826,
+            "filename": "axion-2.7-PROXIMA_BETA-20260608-CORE-avalon.zip",
+            "id": "1a79d8599833194ff3045b193034170a",
             "romtype": "UNOFFICIAL",
-            "size": 3370146970,
-            "url": "https://sourceforge.net/projects/helloyou/files/EternalBuilds/axion/22-05-2026/axion-2.6-QUASIS-20260521-CORE-avalon.zip/download",
-            "version": "2.6"
+            "size": 3374925191,
+            "url": "https://sourceforge.net/projects/helloyou/files/EternalBuilds/axion/08-06-2026/axion-2.7-PROXIMA_BETA-20260608-CORE-avalon.zip/download",
+            "version": "2.7"
         }
     ]
 }
