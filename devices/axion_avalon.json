@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1780889826,
-            "filename": "axion-2.7-PROXIMA_BETA-20260608-CORE-avalon.zip",
-            "id": "1a79d8599833194ff3045b193034170a",
+            "datetime": 1781365028,
+            "filename": "axion-2.7-PROXIMA_BETA-20260613-CORE-avalon.zip",
+            "id": "e469ab5313047aa7d49615ff3fc730a1",
             "romtype": "UNOFFICIAL",
-            "size": 3374925191,
-            "url": "https://sourceforge.net/projects/helloyou/files/EternalBuilds/axion/08-06-2026/axion-2.7-PROXIMA_BETA-20260608-CORE-avalon.zip/download",
+            "size": 3379991777,
+            "url": "https://sourceforge.net/projects/sm8650/files/avalon/axion/13-06-2026/axion-2.7-PROXIMA_BETA-20260613-CORE-avalon.zip/download",
             "version": "2.7"
         }
     ]

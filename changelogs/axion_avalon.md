@@ -10,6 +10,15 @@
 
 ### Features & Changes
 
+#### Date: 13/06/'26
+---------------------------
+- Drop Lineage AIDL richtap vibrator
+- Drop excluded-input-devices vibrator config,no longer needed as we have shifted to prebuilt libs.
+- Kang vibrator from pong
+- Fix missing/delayed haptics for sliders and prebaked effects
+- Updated ConsumerIR App from OOS 11.F.50
+- Other miscellaneous improvements
+
 #### Date: 08/06/'26
 ---------------------------
 - BCR: Version 3.1

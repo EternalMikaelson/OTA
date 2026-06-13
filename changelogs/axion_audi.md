@@ -10,6 +10,14 @@
 
 ### Features & Changes
 
+#### Date: 13/06/'26
+---------------------------
+- Drop Lineage AIDL richtap vibrator
+- Drop excluded-input-devices vibrator config,no longer needed as we have shifted to prebuilt libs.
+- Kang vibrator from pong
+- Fix missing/delayed haptics for sliders and prebaked effects
+- Other miscellaneous improvements
+
 #### Date: 11/06/'26
 ---------------------------
 - Initial build
