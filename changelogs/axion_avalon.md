@@ -1,15 +1,9 @@
-## AxionOS Changelog
-
-### Axion Version — 2.7 PROXIMA BETA
-**Security Patch:** **June 2026**
-### Status — **Unofficial**
+#### Axion Version — 2.7 PROXIMA BETA
+#### Status: **Unofficial**
+#### Security Patch: June 2026
+#### Maintainer: **𝑲𝒍𝒂𝒖𝒔 𝑴𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏**
+#### Device Changelogs
 ---
-
-### Device Changelog
-**Maintainer:** 𝑲𝒍𝒂𝒖𝒔 𝑴𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏
-
-### Features & Changes
-
 #### Date: 13/06/'26
 ---------------------------
 - Drop Lineage AIDL richtap vibrator
