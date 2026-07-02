@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1781361799,
-            "filename": "axion-2.7-PROXIMA_BETA-20260613-CORE-audi.zip",
-            "id": "fd1fb292621db61baee27e1b575e0d1f",
+            "datetime": 1783050949,
+            "filename": "axion-2.7-PROXIMA-20260703-CORE-audi.zip",
+            "id": "8492b47a7e3a96985a2c40cf35847a5a",
             "romtype": "UNOFFICIAL",
-            "size": 3328272037,
-            "url": "https://sourceforge.net/projects/sm8650/files/audi/13-06-2026/axion-2.7-PROXIMA_BETA-20260613-CORE-audi.zip/download",
+            "size": 3323899329,
+            "url": "https://sourceforge.net/projects/sm8650/files/audi/03-07-2026/axion-2.7-PROXIMA-20260703-CORE-audi.zip/download",
             "version": "2.7"
         }
     ]

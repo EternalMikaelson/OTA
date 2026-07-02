@@ -1,9 +1,24 @@
-#### Axion Version — 2.7 PROXIMA BETA
+#### Axion Version — 2.7 PROXIMA
 #### Status: **Unofficial**
-#### Security Patch: June 2026
+#### Security Patch: July 2026
 #### Maintainer: **𝑲𝒍𝒂𝒖𝒔 𝑴𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏**
 #### Device Changelogs
 ---
+#### Date: 02/07/'26
+---------------------------
+- BCR: Version 3.3
+- July 2026 ASB
+- Kernel: merged tag 6.1.174
+- Updated ConsumerIR App from OOS 11.F.54
+- Updated common tree blobs from OOS 11.F.54
+- Camera: Disable face detection AE behavior
+- De-blob some oplus interfaces
+- Add support to toggle torch in alert slider dialog
+- Add background transition animation in alert slider dialog
+- Implement fade in/out animation alert slider in dialog
+- Synced with latest axion source changelogs
+- Other miscellaneous improvements
+
 #### Date: 13/06/'26
 ---------------------------
 - Drop Lineage AIDL richtap vibrator
