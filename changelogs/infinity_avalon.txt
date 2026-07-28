@@ -1,3 +1,24 @@
+Date - 28/07/2026
+=======================
+☞ BCR: Version 3.5
+☞ July ASB 2026
+☞ Kernel: merged tag 6.1.175
+☞ Updated blobs from OOS 11.F.16
+☞ Updated common tree blobs from OOS 11.F.56
+☞ Updated ConsumerIR App from OOS 11.F.56
+☞ Update displayconfig from pdx256
+☞ Enable High Brightness Mode support
+☞ Kang vibrator from pong
+☞ Drop Lineage AIDL richtap vibrator
+☞ Drop excluded-input-devices vibrator config,no longer needed as we have shifted to prebuilt libs.
+☞ Fix missing/delayed haptics for sliders and prebaked effects
+☞ Camera: Disable face detection AE behavior
+☞ De-blob some oplus interfaces
+☞ Fix media preview on third party apps such as Telegram
+☞ Add support to toggle torch in alert slider dialog
+☞ Add background transition animation in alert slider dialog
+☞ Implement fade in/out animation alert slider in dialog
+
 Date - 23/05/2026
 =======================
 ☞ BCR: Version 2.11
