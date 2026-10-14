@@ -1,19 +1,10 @@
 ## Flashing Instructions for oplus-sm8650 devices
 
-> [!CAUTION]
-> - Your warranty is void. Or valid, probably?
-> - I am not responsible for any damage you make to your device. You have been warned!
-> - Don't fall for mods/cracks etc. and you may end up in trouble. In such scenarios, do not blame us.
-
 > [!WARNING]
 > * I am not responsible for anything that may happen to your phone by installing custom ROMs or custom recoveries.
-> * I am not responsible for anything that may happen to your phone by installing any kernels.
-> * You do this at your own risk and take full responsibility.
-> * Do not blame developers for any loss.
-> * Be careful while following the download and installation guide.
+> * You do this at your own risk and take full responsibility. Do not blame Developers.
 
-> [!TIP]
-> **Basic Notes for all users:**
+> [!NOTE]
 > * These instructions will only work if you follow every section and step precisely.
 > * Do not continue after something fails! Contact the developer or ask in the support group for help.
 > * The device must have an unlocked bootloader and latest [Platform Tools](https://developer.android.com/tools/releases/platform-tools) installed on PC.
@@ -22,8 +13,7 @@
 ### Prerequisites:
 - Device must be running OxygenOS/ColorOS version 16.x.x or higher
 - Bootloader Unlock [Guide](https://wiki.lineageos.org/devices/avalon/install/#unlocking-the-bootloader)
-- Flash the current stock build again using local install to ensure both slots have the same firmware. (Failing to do so may brick your device)
-
+- If you're using a ported or modified stock ROM, flash the official stock firmware via Fastboot to ensure both slots have the correct firmware. Users already running official stock OxygenOS/ColorOS can skip this step.
 ---
 
 ## Clean Flash
