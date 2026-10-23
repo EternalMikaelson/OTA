@@ -3,6 +3,21 @@
 #### Security Patch: October 2026
 #### Maintainer: **𝑲𝒍𝒂𝒖𝒔 𝑴𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏**
 ---
+#### Date: 23/10/'26
+---------------------------
+- BCR: Version 3.11
+- Kernel: merged tag 6.1.176
+- Fixed Integrity issues
+- Updated common tree blobs from OOS 11.F.58
+- Imported thermal configs from stock profile for better management
+- Imported HDR config from stock profile
+- Redesign Dolby UI with expressive typography
+- Updated Oplus Camera themed icon
+- sensors: fusionlight: Support pre-V2.1 profiles
+- sensors: fusionlight: Support black-frame V2.1 profiles
+- Wire up per fps sf durations
+- Other miscellaneous improvements
+
 #### Date: 10/10/'26
 ---------------------------
 - BCR: Version 3.9
