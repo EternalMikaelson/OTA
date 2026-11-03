@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1793673469,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-2026.11.03-gms-avalon.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:5074:242444,payload.bin:5074:4123740054,payload_properties.txt:4123745186:156,apex_info.pb:2400:1509,care_map.pb:3956:1071,metadata:69:696,metadata.pb:833:1519",
+        "sha256": "86fba394d6c9524fdefe0defe3a316837525e20a4d5454be75c3e6324437180f",
+        "size": 4123748561,
+        "url": "https://sourceforge.net/projects/sm8650/files/avalon/calcite/03-11-2026/PenguinOS-celerity-20261103-gms-avalon.zip/download"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]

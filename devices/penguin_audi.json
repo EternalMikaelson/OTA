@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1793676842,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-20261103-gms-audi.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:5013:240225,payload.bin:5013:4078848198,payload_properties.txt:4078853269:156,apex_info.pb:2367:1509,care_map.pb:3923:1043,metadata:69:695,metadata.pb:832:1487",
+        "sha256": "e7e53c91efd9edf7a24f6148f6986f19bdda2c42260cced73ea3727ecae64ce",
+        "size": 4078856644,
+        "url": "https://sourceforge.net/projects/sm8650/files/audi/calcite/03-11-2026/PenguinOS-celerity-20261103-gms-audi.zip/download"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]

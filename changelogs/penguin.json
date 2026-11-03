@@ -1,0 +1,66 @@
+{
+  "title": "What's new in PenguinOS",
+  "hello_subtitle": "PenguinOS Celerity 17.0 & 17.01",
+  "highlights": [
+    {
+      "title": "A new look for PenguinOS",
+      "summary": "Explore Liquid Glass themes with iOS and ColorOS visual profiles, including refractive blur, lifted colours, a lit iPadOS-style dock rim and a Refraction Strength control in Penguin Laboratory."
+    },
+    {
+      "title": "Lock screen, reimagined",
+      "summary": "Enjoy iOS-style full-screen album artwork, Apple Music motion art, animated media layouts, COS lock screen styling and smoother Fluid Clock transitions. Clock and notification layout fixes make the lock screen feel more polished."
+    },
+    {
+      "title": "Wonderland wallpapers",
+      "summary": "Create layered wallpapers with the Wonderland engine and customize them in Penguin Laboratory. Floating depth effects respond to your device's gyroscope, shifting the clock with the motion of your phone."
+    },
+    {
+      "title": "Quick Settings your way",
+      "summary": "Choose a One UI-inspired split shade, modular cards, COS glass panel or the default and stock AOSP-style panels. Customize the layout from Penguin Laboratory, with improved COS panel reliability and refined glass effects."
+    },
+    {
+      "title": "Smoother animations",
+      "summary": "Core app animations now run on the render thread, with parallel rendering for overlapping launches and transitions. Blur caching and lighter depth effects help keep the interface fluid and responsive."
+    },
+    {
+      "title": "A desktop that works your way",
+      "summary": "Tablets and desktop mode gain an iPadOS-style recent-apps dock, a macOS-style dock layout, freeform app launches from shortcuts, improved taskbar controls and a window toggle for full-screen typing."
+    },
+    {
+      "title": "Keyboard shortcuts and navigation",
+      "summary": "Use native hardware keybindings, including Alt+Space for Spotlight and Esc to exit, alongside full keyboard navigation. The Dynamic Island can also be swiped away, and a Back to app shortcut is available from the status bar."
+    },
+    {
+      "title": "Spotlight, everywhere",
+      "summary": "Search across phones and tablets with photo recognition, quick actions, search history and Quick Settings toggles. Use the persistent search pill, pull-down gesture or microphone dictation to find what you need."
+    },
+    {
+      "title": "A more flexible launcher",
+      "summary": "Choose between the iOS-style App Library and Caddy categorized drawer, with Liquid Glass folders, expandable HyperOS-style folders, interactive widget stacks and automatically named smart folders. New Task Changer and Recents styles add more ways to personalize multitasking."
+    },
+    {
+      "title": "Launcher refinements",
+      "summary": "Spotlight can open as an app closes, drawer tabs stay in place while scrolling, and blur is retained during drawer transitions. The depth blur behind app launches and closes is lighter."
+    },
+    {
+      "title": "Share audio with two devices",
+      "summary": "Dual A2DP audio sharing lets you play to two Bluetooth receivers at once (beta). aptX Adaptive profile changes no longer restart audio, and the active Bluetooth codec is shown in device details."
+    },
+    {
+      "title": "Audio and connectivity improvements",
+      "summary": "Added ColorOS audio effect query support and gainmap HDR scale accessors for compatible apps, plus Bluetooth sharing in the output picker."
+    },
+    {
+      "title": "Integrity and cleanup",
+      "summary": "Play Integrity, TrickyStore, game props and ROM-hide updates have been imported from crDroid. Obscura and PropImitationHooks have been removed."
+    },
+    {
+      "title": "Fixes and polish",
+      "summary": "Fixed freeform task bounds, Dynamic Island text positioning, notification and Quick Settings gestures, and an NFC HAL client-thread lifecycle issue. Includes miscellaneous fixes and performance improvements."
+    },
+    {
+      "title": "Thank you, @Shemywifee!",
+      "summary": "A warm thank-you to our new designer, @Shemywifee, for supporting PenguinOS with beautiful banners and wallpapers, including the banner for this release."
+    }
+  ]
+}
