@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1792736227,
-            "filename": "axion-2.9-NOESIS-20261023-GMS-avalon.zip",
-            "id": "8f3d863f71b7c6071439ccba235a7197",
+            "datetime": 1795087170,
+            "filename": "axion-2.9-NOESIS-20261119-GMS-avalon.zip",
+            "id": "486d74dd3d838fbc8d027e672e3e8060",
             "romtype": "UNOFFICIAL",
-            "size": 3683855730,
-            "url": "https://sourceforge.net/projects/sm8650/files/avalon/axion/23-10-2026/axion-2.9-NOESIS-20261023-GMS-avalon.zip/download",
+            "size": 3694701756,
+            "url": "https://sourceforge.net/projects/sm8650/files/avalon/axion/19-11-2026/axion-2.9-NOESIS-20261119-GMS-avalon.zip/download",
             "version": "2.9"
         }
     ]

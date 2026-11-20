@@ -1,8 +1,20 @@
 #### Axion Version — 2.9 NOESIS
 #### Status: **Unofficial**
-#### Security Patch: October 2026
+#### Security Patch: November 2026
 #### Maintainer: **𝑲𝒍𝒂𝒖𝒔 𝑴𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏**
 ---
+#### Date: 20/11/'26
+---------------------------
+- Kernel Upstreamed: merged tag 6.1.182
+- November ASB
+- Updated ConsumerIR App from ColorOS COS 11.C.75
+- Fixed hold-to-record video on oplus cam
+- Fixed capturing a photo above 10x zoom crashes
+- Fixed random tint photos on filters and normal mode in oplus cam
+- Addressed some sepolicy denials for oplus cam
+- Synced with latest source changelogs
+- Other miscellaneous improvements
+
 #### Date: 23/10/'26
 ---------------------------
 - BCR: Version 3.11
